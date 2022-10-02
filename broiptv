@@ -1,0 +1,174 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Email GRATIS-1@broiptv.com" tvg-logo="" group-title="AKUN INFO", Email GRATIS-1@broiptv.com
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/accountInfo/account_info_email/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Expire pada 8-October-2022" tvg-logo="" group-title="AKUN INFO", Expire pada 8-October-2022
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/accountInfo/account_info_exp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://x1.cdn.broiptv.com/img/tvri.png" group-title="LOCAL", TVRI
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/tvri_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/kompastv.png" group-title="LOCAL", Kompas TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/kompastv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/metrotv.png" group-title="LOCAL", Metro TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/metrotv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="http://x1.cdn.broiptv.com/img/rtv.png" group-title="LOCAL", Rajawali TV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/rtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="http://x1.cdn.broiptv.com/img/rri.png" group-title="LOCAL", RRI NET
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/rrinet_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7 (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/trans7.png" group-title="LOCAL", Trans 7 (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/trans7_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/transtv.png" group-title="LOCAL", Trans TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/transtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M Shop" tvg-logo="http://x1.cdn.broiptv.com/img/mshop.png" group-title="LOCAL", M Shop
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/mncshop_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antara" tvg-logo="http://x1.cdn.broiptv.com/img/antara.png" group-title="LOCAL", Antara
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/antara_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="http://x1.cdn.broiptv.com/img/balitv.png" group-title="LOCAL", Bali TV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/balitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JakTV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/jaktv.png" group-title="LOCAL", JakTV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/jaktv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://x1.cdn.broiptv.com/img/jtv.png" group-title="LOCAL", JTV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/jtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="http://x1.cdn.broiptv.com/img/tvmui.png" group-title="RELIGI", MUI TV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/muitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/tvedukasi.png" group-title="LOCAL", TV Edukasi (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/tvedukasi_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9 NU" tvg-logo="http://x1.cdn.broiptv.com/img/tv9.png" group-title="RELIGI", TV9 NU
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/tv9_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MMI TV" tvg-logo="http://x1.cdn.broiptv.com/img/mmi.png" group-title="LOCAL", MMI TV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/mmi_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UChannel" tvg-logo="http://x1.cdn.broiptv.com/img/uchannel.png" group-title="RELIGI", UChannel
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/uchannel_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlQuran Kareem (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/alquran.png" group-title="RELIGI", AlQuran Kareem (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/alquran_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="http://x1.cdn.broiptv.com/img/tawaftv.png" group-title="RELIGI", Tawaf TV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/tawaftv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="http://x1.cdn.broiptv.com/img/mqtv.png" group-title="RELIGI", MQTV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/mqtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTATV" tvg-logo="http://x1.cdn.broiptv.com/img/mtatv.png" group-title="RELIGI", MTATV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/mtatv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muhammadiyah TV" tvg-logo="http://x1.cdn.broiptv.com/img/muhammadiyahtv.png" group-title="RELIGI", Muhammadiyah TV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/muhammadiyahtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="http://x1.cdn.broiptv.com/img/rodjatv.png" group-title="RELIGI", Rodja TV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/rodjatv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Daai TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/daaitv.png" group-title="LOCAL", Daai TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/daaitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iNews TV" tvg-logo="http://x1.cdn.broiptv.com/img/inews.png" group-title="LOCAL", iNews TV
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/inews_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC News" tvg-logo="http://x1.cdn.broiptv.com/img/mncnews.png" group-title="LOCAL", MNC News
+#EXTVLCOPT:http-user-agent=""
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/rattus/mncnews_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://x1.cdn.broiptv.com/img/antv.png" group-title="LOCAL", ANTV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/782_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="http://x1.cdn.broiptv.com/img/tvone.png" group-title="LOCAL", TVOne
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/783_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="http://x1.cdn.broiptv.com/img/sctv.png" group-title="LOCAL", SCTV HD
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/204_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar HD" tvg-logo="http://x1.cdn.broiptv.com/img/indosiar.png" group-title="LOCAL", Indosiar HD
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/205_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="http://x1.cdn.broiptv.com/img/moji.png" group-title="LOCAL", Moji
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/206_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="http://x1.cdn.broiptv.com/img/kompastv.png" group-title="LOCAL", Kompas TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/874_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/jtv.png" group-title="LOCAL", JTV (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/9713_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JPM TV" tvg-logo="http://x1.cdn.broiptv.com/img/jpm.png" group-title="LOCAL", JPM TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/9714_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="http://x1.cdn.broiptv.com/img/metrotv.png" group-title="LOCAL", Metro TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/777_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="http://x1.cdn.broiptv.com/img/transtv.png" group-title="LOCAL", Trans TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/733_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="http://x1.cdn.broiptv.com/img/trans7.png" group-title="LOCAL", Trans 7
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/734_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jaktv" tvg-logo="http://x1.cdn.broiptv.com/img/jaktv.png" group-title="LOCAL", Jaktv
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/5415_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/rtv.png" group-title="LOCAL", Rajawali TV (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/1561_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OShop" tvg-logo="http://x1.cdn.broiptv.com/img/oshop.png" group-title="LOCAL", OShop
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/6166_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/tvri.png" group-title="LOCAL", TVRI (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/6441_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="http://x1.cdn.broiptv.com/img/mytv.png" group-title="LOCAL", MyTV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/6711_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="http://x1.cdn.broiptv.com/img/nusantaratv.png" group-title="LOCAL", Nusantara TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/7432_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="http://x1.cdn.broiptv.com/img/daaitv.png" group-title="LOCAL", DAAI TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/6482_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="http://x1.cdn.broiptv.com/img/tvedukasi.png" group-title="LOCAL", TV Edukasi
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/6838_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Muslim" tvg-logo="http://x1.cdn.broiptv.com/img/citramuslim.png" group-title="RELIGI", Citra Muslim
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/6678_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reformed 21 TV" tvg-logo="http://x1.cdn.broiptv.com/img/reformed21.png" group-title="RELIGI", Reformed 21 TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/6853_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlQuran Kareem" tvg-logo="http://x1.cdn.broiptv.com/img/alquran.png" group-title="RELIGI", AlQuran Kareem
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/6852_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ajwa TV" tvg-logo="http://x1.cdn.broiptv.com/img/ajwatv.png" group-title="RELIGI", Ajwa TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/gerbil/7464_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://x1.cdn.broiptv.com/img/RCTI.png" group-title="LOCAL", RCTI
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/norvegicus/rcti_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://x1.cdn.broiptv.com/img/gtv.png" group-title="LOCAL", GTV
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/norvegicus/gtv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="http://x1.cdn.broiptv.com/img/mnc_tv.png" group-title="LOCAL", MNCTV
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/norvegicus/mnctv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="http://x1.cdn.broiptv.com/img/net.png" group-title="LOCAL", Net TV
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/norvegicus/net_tv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRATIS ENTERTAINMENT" tvg-logo="http://x1.cdn.broiptv.com/img/penting.png" group-title="ENTERTAINMENT", GRATIS ENTERTAINMENT
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/pratensis/gratisentertainment_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRATIS KIDS" tvg-logo="http://x1.cdn.broiptv.com/img/penting.png" group-title="KIDS", GRATIS KIDS
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/pratensis/gratiskids_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRATIS KNOWLEDGE" tvg-logo="http://x1.cdn.broiptv.com/img/penting.png" group-title="KNOWLEDGE", GRATIS KNOWLEDGE
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/pratensis/gratisknowledge_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRATIS MOVIES" tvg-logo="http://x1.cdn.broiptv.com/img/penting.png" group-title="MOVIES", GRATIS MOVIES
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/pratensis/gratismovies_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRATIS MUSIC" tvg-logo="http://x1.cdn.broiptv.com/img/penting.png" group-title="MUSIC", GRATIS MUSIC
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/pratensis/gratismusic_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRATIS NEWS" tvg-logo="http://x1.cdn.broiptv.com/img/penting.png" group-title="NEWS", GRATIS NEWS
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/pratensis/gratisnews_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRATIS SPORTS" tvg-logo="http://x1.cdn.broiptv.com/img/penting.png" group-title="SPORTS", GRATIS SPORTS
+http://gratis.broiptv.com/play/GRATIS-1@broiptv.com/55336469/lRAWlp24/pratensis/gratissports_pratensis/playlist.m3u8
