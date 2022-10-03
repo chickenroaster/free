@@ -50,7 +50,7 @@
 
 #EXTINF:-1 group-title="WC AMPUTEE" tvg-logo="https://bit.ly/3RlPwsw",INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1664643590/ei/ph04Y8vlKNSN7gOgprf4AQ/ip/92.205.10.243/id/O0ZGEMAYTO0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPDF_7zwOSrpsAfnV7ZVkuIMYxfP19wEbqHRfjAmGAV8CIG1Tx-yT_ke0EZf-sb2_af-1-1fNFooXaSKZOLw_tHdc/file/index.m3u8
+
 
 
 
@@ -68,15 +68,15 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1664643590/ei/p
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",1.BRI LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://etslive-2-vidio-com.akamaized.net/exp=1664643109~acl=/vp9/9309_stream.mpd!/vp9/9309/*!/vp9/*/9309_stream.mpd!/vp9/*/9309/*~hmac=13fd61dee9057f3c7ed96eb0a2cf2764274cd7c261f604ae2a2d9ffc54228d9b/vp9/9309_stream.mpd
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/km_20221002_540p.mp4
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://etslive-2-vidio-com.akamaized.net/exp=1664643109~acl=/vp9/9309_stream.mpd!/vp9/9309/*!/vp9/*/9309_stream.mpd!/vp9/*/9309/*~hmac=13fd61dee9057f3c7ed96eb0a2cf2764274cd7c261f604ae2a2d9ffc54228d9b/vp9/9309_stream.mpd
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/km_20221002_540p.mp4
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",3.LIGA 2 L1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://etslive-2-vidio-com.akamaized.net/exp=1664643183~acl=/vp9/10039_stream.mpd!/vp9/10039/*!/vp9/*/10039_stream.mpd!/vp9/*/10039/*~hmac=e91f838e16337c53becd8c92e2c32e4c58aac459ba94bfcaeafe4a34b6b8268d/vp9/10039_stream.mpd
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/km_20221002_540p.mp4
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",4.LIGA 2 L2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -105,6 +105,18 @@ https://stream-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://stream-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3SPLSYU",_10.Badminton C1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3SPLSYU",_11.Badminton C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3SPLSYU",_12.Badminton C3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3SPLSYU",_13.Badminton C4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
 
 
 
@@ -124,72 +136,35 @@ https://stream-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 
 
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3SJdr6k",1.Arsenal vs Tottenham (18:30 wib)
+#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3fx1HoW",1.Man City vs Man United (20:00 wib)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://2aa1e17c54e231808a0cd4d4dee3ab19c8ee87c95336c0795fda4ee8cd90afe.s3.eu-west-3.amazonaws.com/bdae57de62f96cb0ed39095702665566/live.m3u8|Referer=https://www.strongenough.online/
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live.m3u8|Referer=https://davorcdn.com/
 
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3SJdr6k",2.Arsenal vs Tottenham (18:30 wib)
+#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3fx1HoW",1.Man City vs Man United (20:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://c5146e82aecd11f4f1db5c624292f924a885c1bc2e3001f57189f981fa4283.s3.eu-west-3.amazonaws.com/e6cd94d68c88b50ebfebbcf47f7eeaf2/live.m3u8|Referer=https://www.strongenough.online/
+
+#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3fx1HoW",2.Man City vs Man United (20:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://arec.cdn7-bongakamai.xyz/live/adaptive_bong-1/playlist.m3u8|Referer=http://bongstreams.com/
 
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3SJdr6k",3.Arsenal vs Tottenham (18:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3fx1HoW",3.Man City vs Man United (20:00 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3SJOjMA",4.Palace vs Chelsea (21:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://arec.cdn7-bongakamai.xyz/live/adaptive_bong-2/playlist.m3u8|Referer=http://bongstreams.com/
+#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3fx1HoW",4.Man City vs Man United (20:00 wib)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3SJOjMA",5.Palace vs Chelsea (21:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
-
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3SJOjMA",6.Palace vs Chelsea (21:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://d9b2d15ca51761be3553c054db24c4e1f808feb102053fa7cd8335527e5c16b.s3.eu-west-3.amazonaws.com/b0e9a4508eb01e0cb0b42d7404f74df4/live.m3u8|Referer=https://www.strongenough.online/
-
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3y21lNN",7.Liverpool vs Brighton (21:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://2aa1e17c54e231808a0cd4d4dee3ab19c8ee87c95336c0795fda4ee8cd90afe.s3.eu-west-3.amazonaws.com/bdae57de62f96cb0ed39095702665566/live.m3u8|Referer=https://www.strongenough.online/
-
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3y21lNN",8.Liverpool vs Brighton (21:00 wib)
-http://arec.cdn7-bongakamai.xyz/live/adaptive_bong-1/playlist.m3u8|Referer=http://bongstreams.com/
-
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3y21lNN",9.Liverpool vs Brighton (21:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3y6oKNT",5.Leeds vs A Villa (22:30 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3rfU0pM",_10.Fulham vs Newcastle (21:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://arec.cdn7-bongakamai.xyz/live/adaptive_bong-4/playlist.m3u8|Referer=http://bongstreams.com/
-
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3rfU0pM",_11.Fulham vs Newcastle (21:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://5af40823da94b6eeb2b8426da349209308495e1e86a99cfd2e3f3458e185f3c.s3.eu-west-3.amazonaws.com/3ef9aa1c7888d8d794904aab69b83deb/live.m3u8|Referer=https://www.strongenough.online/
-
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3CkaNyr",_12.Southampton vs Everton (21:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://arec.cdn7-bongakamai.xyz/live/adaptive_bong-3/playlist.m3u8|Referer=http://bongstreams.com/
-
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3CkaNyr",_13.Southampton vs Everton (21:00 wib)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
-https://763c6bfa0c48cf368fed5b5302d0c80bfe044fc13f7f4fb70ae0d77fc.s3.eu-west-3.amazonaws.com/b52fa3c787c9bab820d13f68df4062b1/live.m3u8|Referer=https://www.strongenough.online/
-
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3UNlD7c",_14.West Ham vs Wolves (23:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
-
-#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3UNlD7c",_15.West Ham vs Wolves (23:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://arec.cdn7-bongakamai.xyz/live/adaptive_bong-1/playlist.m3u8|Referer=http://bongstreams.com/
-
+#EXTINF:-1 group-title="INGGRIS" tvg-logo="https://bit.ly/3y6oKNT",6.Leeds vs A Villa (22:30 wib)
+https://c5146e82aecd11f4f1db5c624292f924a885c1bc2e3001f57189f981fa4283.s3.eu-west-3.amazonaws.com/e6cd94d68c88b50ebfebbcf47f7eeaf2/live.m3u8|Referer=https://www.strongenough.online/
 
 
 
@@ -209,63 +184,50 @@ http://arec.cdn7-bongakamai.xyz/live/adaptive_bong-1/playlist.m3u8|Referer=http:
 
 
 
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3fxjjkV",1.Cadiz vs Villarreal (19:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3SNthNl",1.Espanyol vs Valencia (19:00 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5b9753643572b0c6c467793b50900029&key=ebeda1cf36dae2b0bdedf1065129ea93
 https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3fxjjkV",2.Cadiz vs Villarreal (19:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
-
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3ypOoO3",3.Getafe vs Valladolid (21:15 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5b9753643572b0c6c467793b50900029&key=ebeda1cf36dae2b0bdedf1065129ea93
-https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3ypOoO3",4.Getafe vs Valladolid (21:15 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
-
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3fwsC4f",5.Sevilla vs Atl Madrid (23:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5b9753643572b0c6c467793b50900029&key=ebeda1cf36dae2b0bdedf1065129ea93
-https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3fwsC4f",6.Sevilla vs Atl Madrid (23:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
-
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3fwsC4f",7.Sevilla vs Atl Madrid (23:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3SNthNl",2.Espanyol vs Valencia (19:00 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9c0b24d5e9e2456c93f8fae2e913182c&key=e06339c46258a695fc8a2e8bfb394b6a
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
 
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3LRM6fQ",8.Mallorca vs Barcelona (02:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3UUPpXJ",3.Celta Vigo vs Betis (21:15 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5b9753643572b0c6c467793b50900029&key=ebeda1cf36dae2b0bdedf1065129ea93
+https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3UUPpXJ",4.Celta Vigo vs Betis (21:15 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3LRM6fQ",9.Mallorca vs Barcelona (02:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
+#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3LTfFOa",5.Girona vs Sociedad (23:30 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5b9753643572b0c6c467793b50900029&key=ebeda1cf36dae2b0bdedf1065129ea93
+https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3LRM6fQ",_10.Mallorca vs Barcelona (02:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38
-https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3LTfFOa",6.Girona vs Sociedad (23:30 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3dSYjEv",7.Real Madrid vs Osasuna (02:00 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5b9753643572b0c6c467793b50900029&key=ebeda1cf36dae2b0bdedf1065129ea93
+https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3dSYjEv",8.Real Madrid vs Osasuna (02:00 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 group-title="SPANYOL" tvg-logo="https://bit.ly/3dSYjEv",9.Real Madrid vs Osasuna (02:00 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
 
 
@@ -285,53 +247,63 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 
 
 
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3dNUiBr",1.Napoli vs Torino (20:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3BZwHWr",1.Lazio vs Spezia (17:30 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d4109bac9f47008baeee3a85af300872&key=f6e662900a61abd5716f061459f86b7d
 https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3dNUiBr",2.Napoli vs Torino (20:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3y4nevT",3.Inter Milan vs Roma (23:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d4109bac9f47008baeee3a85af300872&key=f6e662900a61abd5716f061459f86b7d
-https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3y4nevT",4.Inter Milan vs Roma (23:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3BZwHWr",2.Lazio vs Spezia (17:30 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3y4nevT",5.Inter Milan vs Roma (23:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3E22kRK",6.Empoli vs AC Milan (01:45 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3rle2zo",3.Sassuola vs Salernitana (20:00 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d4109bac9f47008baeee3a85af300872&key=f6e662900a61abd5716f061459f86b7d
 https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3E22kRK",7.Empoli vs AC Milan (01:45 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3E22kRK",8.Empoli vs AC Milan (01:45 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3rle2zo",4.Sassuola vs Salernitana (20:00 wib)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3CndfEm",5.Sampdoria vs Monza (20:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
+
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3CndfEm",6.Sampdoria vs Monza (20:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG36/chunklist.m3u8|Referer=https://xoivo6.com/
+
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3dSs5t4",7.Atalanta vs Fiorentina (23:00 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d4109bac9f47008baeee3a85af300872&key=f6e662900a61abd5716f061459f86b7d
+https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3dSs5t4",8.Atalanta vs Fiorentina (23:00 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9c0b24d5e9e2456c93f8fae2e913182c&key=e06339c46258a695fc8a2e8bfb394b6a
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
+
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3UQzERL",9.Juventus vs Bologna (01:45 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d4109bac9f47008baeee3a85af300872&key=f6e662900a61abd5716f061459f86b7d
+https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3UQzERL",_10.Juventus vs Bologna (01:45 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9c0b24d5e9e2456c93f8fae2e913182c&key=e06339c46258a695fc8a2e8bfb394b6a
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
+
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3UQzERL",_11.Juventus vs Bologna (01:45 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://bit.ly/3UQzERL",_12.Juventus vs Bologna (01:45 wib)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 
 
@@ -347,31 +319,25 @@ https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 
 
-#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3dR5pJE",1.RB Leipzig vs Bochum (20:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG43/chunklist.m3u8|Referer=https://tructiepdabong10.com/
+#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3E4rGyi",1.Hertha BSC vs Hoffenhaim (20:30 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3dR5pJE",2.RB Leipzig vs Bochum (20:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://cdn.raino.xyz/hls/stream4.m3u8|Referer=http://bdnewszh.com/
-
-#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3fvRUj9",3.Koln vs Dortmund (20:30 wib)
+#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3E4rGyi",2.Hertha BSC vs Hoffenhaim (20:30 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
-#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3fvRUj9",4.Koln vs Dortmund (20:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://4d54f134c2a55f2d2f28c545ba48bfe0afd81743c715e2905b23b0ade1cf72a.s3.eu-west-3.amazonaws.com/8e23f0f98b3f2fd2aadbbd9a509f7a84/live.m3u8|Referer=https://www.strongenough.online/
+#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3y1e57a",3.Schalke vs Augsburg (22:30 wib)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3RpOPOR",5.Werder Bremen vs M'gladbach (23:30 wib)
+#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3y1e57a",4.Schalke vs Augsburg (22:30 wib)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
-
-#EXTINF:-1 group-title="JERMAN" tvg-logo="https://bit.ly/3RpOPOR",6.Werder Bremen vs M'gladbach (23:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
 
 
 
@@ -388,31 +354,30 @@ http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
 
 
 
-#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3E1eTwL",1.Strasbourg vs Rennes (22:00 wib)
+#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3En9i4b",1.Lorient vs Lille (18:00 wib)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
+https://stream2.supertipz.com/hls/beincanada.m3u8|Referer=https://bestreamsports.org/
 
-#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3E1eTwL",2.Strasbourg vs Rennes (22:00 wib)
+#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3En9i4b",2.Lorient vs Lille (18:00 wib)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
+http://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
 
-#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3LRZeS6",3.PSG vs Nice (02:00 wib)
+#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3SjcDFn",3.Monaco vs Nantes (22:05 wib)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5b9753643572b0c6c467793b50900029&key=ebeda1cf36dae2b0bdedf1065129ea93
-https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+http://cdn.raino.xyz/hls/stream9.m3u8|Referer=http://bdnewszh.com/
 
-#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3LRZeS6",4.PSG vs Nice (02:00 wib)
+#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3SjcDFn",4.Monaco vs Nantes (22:05 wib)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9c0b24d5e9e2456c93f8fae2e913182c&key=e06339c46258a695fc8a2e8bfb394b6a
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
+https://6cb6f625a2f38aded01d3c9454f4eb31.s3.eu-central-1.amazonaws.com/57394cf25489157b642a122ffb73b14e/live.m3u8|Referer=https://davorcdn.com/
 
-#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3LRZeS6",5.PSG vs Nice (02:00 wib)
+#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3y04u0v",5.Lens vs Lyon (01:45 wib)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e
+https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
+
+#EXTINF:-1 group-title="PRANCIS" tvg-logo="https://bit.ly/3y04u0v",6.Lens vs Lyon (01:45 wib)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+https://6cb6f625a2f38aded01d3c9454f4eb31.s3.eu-central-1.amazonaws.com/57394cf25489157b642a122ffb73b14e/live.m3u8|Referer=https://davorcdn.com/
 
 
 
@@ -429,17 +394,7 @@ https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 
 
-#EXTINF:-1 group-title="BELANDA" tvg-logo="https://bit.ly/3SGt7af",1.Cambuur vs PSV (21:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 group-title="BELANDA" tvg-logo="https://bit.ly/3y2681A",2.Ajax vs GA Eagles (01:00 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
 
 
@@ -454,15 +409,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
 
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://bit.ly/3dR78i6",1.Guimaraes vs Benfica (02:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://bit.ly/3dR78i6",2.Guimaraes vs Benfica (02:30 wib)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
 
 
 
@@ -492,7 +438,9 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 
 #EXTINF:-1 group-title="RACE" tvg-logo="https://2.bp.blogspot.com/-TTmmrYrXBOY/USSDhx1mb0I/AAAAAAAAAOU/E0UzNbHwjz8/s1600/MotoGP_by_ospyder.jpg",MOTO GP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn3.reels2watch.com/hls/f2.m3u8|Referer=https://techclips.net/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
 #EXTINF:-1 group-title="RACE" tvg-logo="https://wallpaperaccess.com/full/6122413.jpg",F1 LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -501,11 +449,11 @@ https://cdn3.reels2watch.com/hls/f2.m3u8|Referer=https://techclips.net/
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 
 #EXTINF:-1 group-title="RACE" tvg-logo="https://wallpaperaccess.com/full/6122413.jpg",F1 LIVE 2
-https://1ef1e3b2d3df.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.292666548716.channel.FObjOcP5XvlM.m3u8
+https://e7ebec435857.us-west-2.playback.live-video.net/api/video/v1/us-west-2.403265903508.channel.7xyL6adAjveS.m3u8
 
 #EXTINF:-1 group-title="RACE" tvg-logo="https://wallpaperaccess.com/full/6122413.jpg",F1 LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ad2017.vhls.ru.com/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home
 
 #EXTINF:-1 group-title="RACE" tvg-logo="https://tmcblog.com/wp-content/uploads/2020/03/SBK-logo.jpg",WSBK LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -532,6 +480,15 @@ https://s2.strea.ru/index.m3u8
 
 #EXTINF:-1 group-title="NBA LIVE" tvg-logo="https://bit.ly/3SjnfUJ",1.NBA LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://bobblegroup.azureedge.net/hls/nbatv/chunks.m3u8
+
+#EXTINF:-1 group-title="NBA LIVE" tvg-logo="https://bit.ly/3SjnfUJ",2.NBA LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://golive.yn.lt/live/basketball/01.m3u8
+
+#EXTINF:-1 group-title="NBA LIVE" tvg-logo="https://bit.ly/3SjnfUJ",3.NBA LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://cdn5.cyclingnews.live/hls/P1.m3u8|Referer=http://motornews.live/
 
 
 
@@ -559,7 +516,7 @@ https://s2.strea.ru/index.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3fpIVjj",2.UFC Live
-http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
+https://reels2watch.com/hls/m1.m3u8|Referer=https://techclips.net/
 
 #EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3fpIVjj",3.UFC Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -567,28 +524,33 @@ http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
-#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3dSR0wL",4.Boxing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3fpIVjj",4.UFC Live
+https://ad2017.vhls.ru.com/lb/premium11/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3dSR0wL",5.Boxing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3BYN4lU",6.Smack Down
+#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3dSR0wL",6.Boxing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3BYN4lU",7.Smack Down
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3SoS628",8.Belator MMA
+#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3BYN4lU",8.Smack Down
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3SoS628",9.Belator MMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://reels2watch.com/hls/m2.m3u8|Referer=https://techclips.net/
 
-#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3UROLKD",_10.ONE Fight
+#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3SoS628",_10.Belator MMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://slive.webhockey.xyz/hls/S8.m3u8|Referer=http://hockeyweb.live
+
+#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3UROLKD",_11.ONE Fight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3UROLKD",_10.ONE Fight
+#EXTINF:-1 group-title="FIGHT" tvg-logo="https://bit.ly/3UROLKD",_12.ONE Fight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 
@@ -646,7 +608,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS 7 GP
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://streamhuawei.detik.com/gstream/smil:gstream.smil/playlist.m3u8
+https://www.dailymotion.com/cdn/live/video/x6p1gw7.m3u8?sec=DUOt6dVPp0Gfbj2FQzNLJz6BzAxrptJ5f_VnEtWqhl6b89hRFmzWkG_gYIAgQT1lQJAF63YjaTVHzPqxiiGO2w&dmTs=261529&dmV1st=AFF6F9C2A0CBE51ECD7E9AF77A597E77
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4084,6 +4046,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmaj
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="TV DAERAH",TVRI Sumatra Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="TV DAERAH",TVRI Sumatra Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
